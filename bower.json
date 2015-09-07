@@ -1,0 +1,19 @@
+{
+  "name": "pnglib.js",
+  "main": [
+    "pnglib.js"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/michelem09/pnglib.js",
+  "authors": [
+    "robert@xarg.org"
+  ],
+  "description": "GitHub-style identicons in JS with no server-side processing.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pnglib"
+  ],
+  "license": "BSD"
+}
